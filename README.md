@@ -15,7 +15,6 @@ Project mencakup proses eksplorasi data, visualisasi, dan pembuatan dashboard un
 ## Key Analysis
 - Content Distribution
 - Content Release Trend
-- Top Countries
 - Top Genres
 - Content by Rating
 - Movie Duration Distribution
